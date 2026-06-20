@@ -5,7 +5,7 @@ from email.message import EmailMessage
 
 EMAIL = "YOUR_EMAIL_ID"
 
-PASSWORD = "YOUR_PASSWORD
+PASSWORD = "YOUR_PASSWORD"
 
 
 def send_email(
