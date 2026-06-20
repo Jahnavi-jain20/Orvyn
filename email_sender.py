@@ -3,9 +3,9 @@ import smtplib
 from email.message import EmailMessage
 
 
-EMAIL = "janavijain0620@gmail.com"
+EMAIL = "YOUR_EMAIL_ID"
 
-PASSWORD = "seems_goodnow"
+PASSWORD = "YOUR_PASSWORD
 
 
 def send_email(
